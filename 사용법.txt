@@ -1,0 +1,5 @@
+add : 스테이지 올리기
+commit : save
+push : 저장소 업로드
+clone : 저장소 만들기
+코드 뭉치 버리기
